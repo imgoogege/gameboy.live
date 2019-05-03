@@ -1,4 +1,4 @@
-module github.com/HFO4/gbc-in-cloud
+module github.com/imgoogege/gameboy.live
 
 go 1.12
 
